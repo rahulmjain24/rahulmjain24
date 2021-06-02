@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulmjain24
 - 👀 I’m interested in Programming  
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dm me on my twitter.
 
